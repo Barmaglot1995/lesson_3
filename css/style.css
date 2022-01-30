@@ -1,0 +1,53 @@
+@import "null.css";
+h2 {
+   color: aqua;
+}
+
+span {
+   color: green;
+}
+
+.compound {
+   color: grey;
+}
+
+.time {
+   color: indigo;
+}
+
+#cooking {
+   color: green;
+}
+
+ul {
+   color: hotpink;
+}
+
+div.step {
+   color: lime;
+}
+
+.compound.text {
+   color: green;
+}
+
+.point.text {
+   color: red;
+}
+
+h3 {
+   color: red;
+}
+[title="Состав"] {
+   color: red;
+}
+
+.text1,
+.text2,
+.text3 {
+   color: blue;
+}
+
+[class*="point"] {
+   color: blueviolet;
+}
